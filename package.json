@@ -1,0 +1,23 @@
+{
+  "name": "image_processing",
+  "version": "1.0.0",
+  "description": "Below is a template provided for use when building your README file for students.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshinescience/image_processing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunshinescience/image_processing/issues"
+  },
+  "homepage": "https://github.com/sunshinescience/image_processing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
